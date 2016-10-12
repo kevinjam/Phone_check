@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Angalia</string>
+    <string name="action_settings">Settings</string>
+    <string name="check_your_Phone">Check Your Phone</string>
+    <string name="please_wait">Checking your Phone</string>
+    <string name="phone_version">Phone Version</string>
+    <string name="phone_name">Phone Model :  </string>
+    <string name="samsung">Samsung is working with the US Consumer Product Safety Commission (CPSC) to investigate the recently reported cases involving the Galaxy Note7. While the investigation is taking place, Samsung is asking all carrier and retail partners here and around the globe to stop sales and exchanges of the Galaxy Note7. Since the affected devices can overheat and pose a safety risk, we are asking consumers with an original Galaxy Note7 or a replacement Galaxy Note7 to power it down and contact the carrier or retail outlet where you purchased your Galaxy Note7. If you bought your Galaxy Note7 from Samsung.com or have questions, you should contact us at 1-844-365-6197 and we can help you.</string>
+    <string name="serial_n">Serial Number :  </string>
+</resources>
